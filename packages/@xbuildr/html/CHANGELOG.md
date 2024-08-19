@@ -1,5 +1,11 @@
 # @xbuildr/html
 
+## 1.0.0
+
+### Major Changes
+
+- [`5c241fe`](https://github.com/xbuildr/xbuildr/commit/5c241fe7fbf76b7700b1d58e0ce3951f53353b32) Thanks [@shaynem](https://github.com/shaynem)! - change set
+
 ## 0.0.6
 
 ### Patch Changes
