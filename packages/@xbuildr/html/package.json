@@ -1,6 +1,6 @@
 {
   "name": "@xbuildr/html",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "description": "Plugin that simplifies creation of HTML files to serve your esbuild bundles",
   "repository": "git+https://github.com/xbuildr/xbuildr.git",
